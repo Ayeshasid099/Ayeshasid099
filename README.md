@@ -62,16 +62,15 @@ Communication • Teamwork • Adaptability • Analytical Thinking
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ayeshasid099&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayeshasid099&layout=compact&hide_border=true" />
 </p>
-
 ---
 
 ### 📫 Contact Me
 
 - 📧 Email: [ayeshasiddiqha099@gmail.com](mailto:ayeshasiddiqha099@gmail.com)
-- 💼 LinkedIn: [Ayesha Siddiqha](https://linkedin.com/in/YOUR-LINKEDIN)
+- 💼 LinkedIn: [Ayesha Siddiqha](https://www.linkedin.com/in/ayeshasiddiqha099)
 - 📱 Phone: +91 8296847928
 
 ---
