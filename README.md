@@ -2,7 +2,7 @@
 <h3 align="center">AI & ML Undergraduate | Building intelligent, real-world solutions</h3>
 
 <p align="center">
-  <a href="linkedin.com/in/ayeshasiddiqha099"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/ayeshadiddha099"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ayeshasiddiqha099@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"></a>
 </p>
 
